@@ -1,6 +1,6 @@
 # maxab_task
 
-You can use this url to check the response http://127.0.0.1:8000/api/books/schedule?start_date=2019-11-01&working_days[0]=1&working_days[1]=2&working_days[2]=3&chapter_sessions=1
+You can use this url to check the response http://localhost:8000/api/books/schedule?start_date=2019-11-01&working_days[0]=1&working_days[1]=2&working_days[2]=3&chapter_sessions=1
 
 start_date: start date for reading this book
 
