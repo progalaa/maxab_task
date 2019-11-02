@@ -40,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Services/BookService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -173,6 +173,7 @@
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -257,16 +258,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572687118906</updated>
-      <workItem from="1572687120122" duration="758000" />
+      <workItem from="1572687120122" duration="1000000" />
     </task>
+    <task id="LOCAL-00001" summary="Maksab task">
+      <created>1572688020223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572688020223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="758000" />
+    <option name="totallyTimeSpent" value="1000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1311" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.26403162" />
@@ -283,8 +291,8 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49960473" weight="0.32736155" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50039524" side_tool="true" weight="0.32736155" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49881423" visible="true" weight="0.32736155" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5011858" side_tool="true" visible="true" weight="0.32736155" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32899022" />
       <window_info anchor="bottom" id="GraphQL" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -295,6 +303,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Maksab task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maksab task" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/composer.json">
@@ -344,8 +356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Services/BookService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
