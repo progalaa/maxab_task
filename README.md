@@ -9,8 +9,18 @@ working_days: int array with number of days per week assuming the start of the w
 chapter_sessions: How many sessions required to finish one chapter.
 
 You can Find Fils to Check: 
+
+
 routes/api.php >> added route for API 
+
+
 Controllers/BookController.php >> function code calling service
+
+
 Services/BookService.php >> Sercice Layer class
+
+
 Requests/ScheduleRequest.php >> Request validation
+
+
 tests/unit/BookTest.php >> Unit testing for API.
